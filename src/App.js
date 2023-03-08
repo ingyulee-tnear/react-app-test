@@ -21,10 +21,6 @@ function App() {
 	  <button>
 	  	예쁜 버튼
 	  </button>
-	  <footer>
-	  	Ugly Footer
-	  	Another Footer
-	  </footer>
     </div>
   );
 }
