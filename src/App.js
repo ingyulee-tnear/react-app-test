@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+	  한글로 눈에 띄게 커밋하기
         </p>
         <a
           className="App-link"
@@ -18,6 +18,12 @@ function App() {
           Learn React
         </a>
       </header>
+	  <button>
+	  	Beautiful Button
+	  </button>
+	  <footer>
+	  	Ugly Footer
+	  </footer>
     </div>
   );
 }
