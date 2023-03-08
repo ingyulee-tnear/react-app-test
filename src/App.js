@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
 	  <button>
-	  	Beautiful Button
+	  	예쁜 버튼
 	  </button>
 	  <footer>
 	  	Ugly Footer
