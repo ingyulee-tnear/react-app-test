@@ -21,6 +21,9 @@ function App() {
 	  <button>
 	  	Beautiful Button
 	  </button>
+	  <footer>
+	  	Ugly Footer
+	  </footer>
     </div>
   );
 }
