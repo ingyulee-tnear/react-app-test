@@ -23,6 +23,7 @@ function App() {
 	  </button>
 	  <footer>
 	  	Ugly Footer
+	  	Another Footer
 	  </footer>
     </div>
   );
